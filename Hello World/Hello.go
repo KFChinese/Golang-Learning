@@ -10,5 +10,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("L;ol")
+	fmt.Println("Lol")
 }
