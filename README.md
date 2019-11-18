@@ -1,2 +1,3 @@
 # Golang-Learning
-Learning About the Golang Language 
+Learning About the Golang Language with Hackerrank.
+
